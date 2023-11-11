@@ -39,7 +39,7 @@ footer p {
 }
 
 div {
-    display: none;
+    display: none !important;
 }
 
 .hello-world {
