@@ -38,6 +38,10 @@ footer p {
     margin: 0;
 }
 
+div {
+    display: none;
+}
+
 .hello-world {
     font-weight: bold;
     margin-bottom: 0;
@@ -53,7 +57,7 @@ footer p {
     border-radius: 50%;
 }
 
-.presentation div {
+.presentation span {
     border-left: 3px solid #205bba;
     padding-left: 10px;
 }
